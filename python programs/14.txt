@@ -1,0 +1,3 @@
+Hello. This is a result oF pyThon ProGram To coNvert UpperCase tO LowercaSe and DelEte Numbers 
+eg: ABCDEFGHIJKLMNOP and The NUMBERS ARE 012345678998348834839
+
